@@ -78,3 +78,14 @@ Here are some ideas to get you started:
   [<img alt="GitLab" title="GitLab" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />](https://about.gitlab.com/)
   [<img alt="Heroku" title="Heroku" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />](https://www.heroku.com/)
 </div>
+
+<div>
+  <h3>OS</h3>
+  
+  [<img alt="CentOS" title="CentOS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />](https://www.centos.org/)
+  [<img alt="Debian" title="Debian" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />](https://www.debian.org/)
+  [<img alt="Linux" title="Linux" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />](https://www.linux.org/)
+  [<img alt="Ubuntu" title="Ubuntu" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />](https://ubuntu.com/)
+  [<img alt="Windows" title="Windows" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />](https://www.microsoft.com/en-us/windows)
+  
+</div>

@@ -89,3 +89,12 @@ Here are some ideas to get you started:
   [<img alt="Windows" title="Windows" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />](https://www.microsoft.com/en-us/windows)
   
 </div>
+
+<div>
+  <h3>Etc</h3>
+  
+  [<img alt="Jquery" title="Jquery" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />](https://jquery.com/)
+  [<img alt="Markdown" title="Markdown" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />](https://www.markdownguide.org/)
+  [<img alt="Node" title="Node" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />](https://nodejs.org/)
+  [<img alt="NPM" title="NPM" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/)
+</div>

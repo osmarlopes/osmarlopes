@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Osmar Lopes 👋</h1>
 
 <div align="center">
-  [![Osmar Lopes's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmarlopes&show_icons=true)](https://github.com/osmarlopes/)
+  <img src="https://github-readme-stats.vercel.app/api?username=osmarlopes&show_icons=true" />
 </div>

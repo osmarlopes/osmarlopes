@@ -67,3 +67,14 @@ Here are some ideas to get you started:
   [<img alt="Unity" title="Unity" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />](https://unity.com/)
   
 </div>
+
+<div>
+  <h3>Services</h3>
+  
+  [<img alt="Amazon Web Services" title="Amazon Web Services" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />](https://aws.amazon.com/)
+  [<img alt="DigitalOcean" title="DigitalOcean" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />](https://www.digitalocean.com/)
+  [<img alt="Figma" title="Figma" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />](https://www.figma.com/)
+  [<img alt="GitHub" title="GitHub" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/)
+  [<img alt="GitLab" title="GitLab" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />](https://about.gitlab.com/)
+  [<img alt="Heroku" title="Heroku" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />](https://www.heroku.com/)
+</div>

@@ -40,3 +40,18 @@ Here are some ideas to get you started:
   [<img alt="Jest" title="Jest" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />](https://jestjs.io/)
   [<img alt="Tailwind" title="Tailwind" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />](https://tailwindcss.com/)
 </div>
+
+<div>
+  <h3>Languages</h3>
+  
+  [<img alt="Bash" title="Bash" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/)
+  [<img alt="C" title="C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
+  [<img alt="CSS" title="CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](https://www.w3.org/Style/CSS/Overview.en.html)
+  [<img alt="C#" title="C#" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />](https://dotnet.microsoft.com/en-us/languages/csharp)
+  [<img alt="HTML" title="HTML" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://www.w3.org/html/)
+  [<img alt="Java" title="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />](https://www.java.com/)
+  [<img alt="JavaScript" title="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://www.javascript.com/)
+  [<img alt="Lua" title="Lua" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />](https://www.lua.org/)
+  [<img alt="PHP" title="PHP" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />](https://www.php.net/)
+  [<img alt="TypeScript" title="TypeScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
+</div>

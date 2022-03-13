@@ -55,3 +55,15 @@ Here are some ideas to get you started:
   [<img alt="PHP" title="PHP" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />](https://www.php.net/)
   [<img alt="TypeScript" title="TypeScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
 </div>
+
+<div>
+  <h3>Softwares</h3>
+  
+  [<img alt="Apache HTTP" title="Apache HTTP" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />](https://httpd.apache.org/)
+  [<img alt="Docker" title="Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />](https://www.docker.com/)
+  [<img alt="Git" title="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
+  [<img alt="Godot" title="Godot" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />](https://godotengine.org/)
+  [<img alt="Nginx" title="Nginx" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />](https://www.nginx.com/)
+  [<img alt="Unity" title="Unity" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />](https://unity.com/)
+  
+</div>

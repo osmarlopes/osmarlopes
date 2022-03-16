@@ -98,3 +98,12 @@ Here are some ideas to get you started:
   [<img alt="Node" title="Node" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />](https://nodejs.org/)
   [<img alt="NPM" title="NPM" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/)
 </div>
+
+<div>
+  <h3>Get in touch</h3>
+  
+  [<img src="https://img.shields.io/badge/-Email-2962FF?style=for-the-badge&logoColor=white" />](mailto:contact@osmarlopes.com)
+  [<img src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logoColor=white" />](https://hashnode.com/@osmarlopes)
+  [<img src="https://img.shields.io/badge/-LinkedIn-2962FF?style=for-the-badge&logoColor=white" />](https://www.linkedin.com/in/osmarlps)
+  [<img src="https://img.shields.io/badge/-Website-2962FF?style=for-the-badge&logoColor=white" />](https://www.osmarlopes.com)
+</div>
